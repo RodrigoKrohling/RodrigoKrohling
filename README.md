@@ -1,16 +1,20 @@
-## Hi there 👋
+## Hi, I'm Rodrigo 👋
 
-<!--
-**RodrigoKrohling/RodrigoKrohling** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build free, privacy-friendly web tools.
 
-Here are some ideas to get you started:
+### 🔧 Fastway Tools
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**[fastwaytools.com](https://fastwaytools.com/en/)** — 49 free online tools
+(text utilities, calculators, converters and generators) that run 100% in your
+browser: no sign-up, and your data never leaves your device. Available in
+7 languages.
+
+Some favorites:
+
+- [Word Counter](https://fastwaytools.com/en/word-counter/)
+- [Password Generator](https://fastwaytools.com/en/password-generator/)
+- [JSON Formatter](https://fastwaytools.com/en/json-formatter/)
+- [Compound Interest Calculator](https://fastwaytools.com/en/compound-interest-calculator/)
+- 🇧🇷 Em português: [ferramentas online grátis](https://fastwaytools.com/pt/)
+
+**Stack:** Angular 21 · Tailwind CSS v4 · prerendered (SSG) on Cloudflare Pages
